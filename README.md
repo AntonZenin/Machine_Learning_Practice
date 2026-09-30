@@ -1,0 +1,1 @@
+The repository is for machine learning UNN practice tasks
